@@ -38,6 +38,6 @@ This project presents an interactive Power BI dashboard analyzing IPL data from 
 * Dashboard image
 
 ## 👤 Author
-*Ajay Kumar Bomma
+ 
 
 Ajay Kumar
