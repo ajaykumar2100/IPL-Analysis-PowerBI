@@ -6,12 +6,12 @@ This project presents an interactive Power BI dashboard analyzing IPL data from 
 
 ## 🔍 Key Insights
 
-* 🟠 Orange Cap Winner: B Sai Sudharsan (759 runs)
-* 🟣 Purple Cap Winner: M Prasidh Krishna (25 wickets)
-* 🏆 Champion: Royal Challengers Bangalore
-* 📈 Total Matches: 74
-* 💥 Total 6s: 1296
-* ⚡ Total 4s: 2251
+* 🟠 Orange Cap Winner 
+* 🟣 Purple Cap Winner 
+* 🏆 Champion 
+* 📈 Total Matches 
+* 💥 Total 6s 
+* ⚡ Total 4s 
 
 ## 📌 Features
 
